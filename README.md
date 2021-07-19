@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-surge">Surge.SH</a> &#xa0; | &#xa0;
+  <a href="#sparkles-surge">Deploy</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
@@ -22,9 +22,17 @@
 
 ## :dart: Sobre ##
 
-Projeto com finalidade de praticar todo o conteúdo do módulo 2
+Projeto com finalidade para um teste para Dev Front-end
+(X) Rotatividade automática no carrossel de banners
+(X) Exibir página de detalhes ao clicar no botão Saiba Mais de um card
+(X) (Bônus) Página Fontes: filtrar cards ao clicar em uma categoria da barra cinza
+(X) (Bônus) Página Apps: ordenar cards ao selecionar opção no select
+(X) Implemente layout responsivo para os breakpoints 480px e 1200px
+(X) Use Sass como pré-processador CSS
+(X) Use um framework JS (bônus se usar Vue)
+( ) (Bônus) Use o padrão BEM CSS
 
-## :sparkles: Surge ##
+## :sparkles: Deploy ##
 
 <a href="https://upminer.surge.sh/" target="_blank">upminer.surge.sh</a>
 
@@ -48,7 +56,10 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/future4code/Lucas-Santos/semana10/labex/
+$ git clone https://github.com/lucasgomesoficial/upminer.git
+
+# Entre na pasta
+$ cd upminer
 
 # Instale as dependências
 $ yarn
