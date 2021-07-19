@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Profissional",
+    "img": "https://i.imgur.com/el6ZZh5.png",
+    "text": "",
+    "category": "profissional",
+    "price": 29.99
+  },
+  {
+    "id": "2",
+    "name": "Reguladores",
+    "img": "https://i.imgur.com/Fgyn7xA.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "reguladores",
+    "price": 29.99
+  },
+  {
+    "id": "3",
+    "name": "Sócio Ambiental",
+    "img": "https://i.imgur.com/m9wtDj1.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "socio-ambiental",
+    "price": 36.99
+  },
+  {
+    "id": "4",
+    "name": "Jurídico",
+    "img": "https://i.imgur.com/BMUu5gB.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "juridico",
+    "price": 29.99
+  },
+  {
+    "id": "5",
+    "name": "Lista Restritivas",
+    "img": "https://i.imgur.com/wzr3RfX.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "lista-restritivas",
+    "price": 25.99
+  },
+  {
+    "id": "6",
+    "name": "Mídia e Internet",
+    "img": "https://i.imgur.com/dh4I0e4.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "midia-internet",
+    "price": 29.99
+  },
+  {
+    "id": "7",
+    "name": "Bens e Imóveis",
+    "img": "https://i.imgur.com/eJBSIzo.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "bens-imoveis",
+    "price": 33.99
+  },
+  {
+    "id": "8",
+    "name": "Cadastro",
+    "img": "https://i.imgur.com/3TKvqpI.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "cadastro",
+    "price": 29.99
+  },
+  {
+    "id": "9",
+    "name": "Financeiro",
+    "img": "https://i.imgur.com/csDatsF.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "financeiro",
+    "price": 27.99
+  },
+  {
+    "id": "10",
+    "name": "Financeiro",
+    "img": "https://i.imgur.com/csDatsF.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "financeiro",
+    "price": 27.99
+  },
+  {
+    "id": "11",
+    "name": "Sócio Ambiental",
+    "img": "https://i.imgur.com/m9wtDj1.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "socio-ambiental",
+    "price": 36.99
+  },
+  {
+    "id": "12",
+    "name": "Jurídico",
+    "img": "https://i.imgur.com/BMUu5gB.png",
+    "text": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+    "category": "juridico",
+    "price": 29.99
+  }
+]

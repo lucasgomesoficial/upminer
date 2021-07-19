@@ -1,0 +1,116 @@
+.main-details {
+  padding: 20px 150px;
+  display: flex;
+  width: 80vw;
+  flex-direction: column;
+  gap: 25px;
+
+  @media (max-width: 1200px) {
+    padding: 20px 100px;
+  }
+
+  @media (max-width: 480px) {
+    padding: 20px 40px;
+    width: 100vw;
+  }
+
+  .goBack {
+    text-align: left;
+    font-size: 24px;
+    width: 25%;
+    color: var(--orange-color);
+    margin-left: -20px;
+
+    @media (max-width: 1200px) {
+      width: 40%;
+    }
+
+    @media (max-width: 480px) {
+      width: 70%;
+    }
+  }
+
+  .slides-details {
+    display: flex;
+    gap: 30px;
+
+    @media (max-width: 480px) {
+      flex-direction: column;
+    }
+
+    > div {
+      padding: 25px;
+      width: 520px;
+      height: 340px;
+      box-shadow: 0 0 10px 3px rgba(156, 156, 156, 0.1);
+
+      p {
+        font-size: 15px;
+        color: var(--orange-color);
+        line-height: 20px;
+        width: 450px;
+        padding: 15px;
+      }
+
+      @media (max-width: 480px) {
+        width: 70%;
+        padding: 10px;
+        width: 100%;
+        height: 300px;
+
+        img {
+          width: 100%;
+        }
+
+        p {
+          font-size: 15px;
+          color: var(--orange-color);
+          line-height: 20px;
+          width: 400px;
+        }
+      }
+    }
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .price-details {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    p {
+      font-size: 38px;
+      color: black;
+      margin-bottom: 0;
+
+      span {
+        font-size: 16px;
+      }
+    }
+
+    button {
+      font-size: 18px;
+      font-weight: bold;
+      width: 130px;
+      height: 40px;
+      background-image: linear-gradient(to right, #faa86e 5%, #f0690a 90%);
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.3s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+    #desibled-button {
+      background-image: linear-gradient(to right, rgb(252, 106, 106) 5%, rgb(248, 43, 43) 90%);
+    }
+  }
+}

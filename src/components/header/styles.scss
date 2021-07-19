@@ -1,0 +1,187 @@
+.carousel-header {
+  border-bottom: 5px solid var(--orange-color);
+
+  img {
+    height: 300px;
+  }
+
+  #mobile {
+    display: none !important;
+    @media (max-width: 480px) {
+      display: flex !important;
+    }
+  }
+
+  #web {
+    @media (max-width: 480px) {
+      display: none !important;
+    }
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+    display: none;
+
+    &:hover {
+      display: none;
+    }
+  }
+}
+
+.main-white-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 230px;
+  width: 630px;
+  margin-left: -100px;
+  gap: 30px;
+
+  @media (max-width: 480px) {
+    width: 440px;
+    margin-left: -50px;
+  }
+
+  .top-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    img {
+      height: 100%;
+
+      @media (max-width: 480px) {
+        height: 80%;
+      }
+    }
+
+    h3 {
+      font-size: 32px;
+      height: 20px;
+      color: white;
+
+      @media (max-width: 480px) {
+        font-size: 26px;
+      }
+    }
+  }
+
+  p {
+    text-align: left;
+    font-size: 19px;
+    color: white;
+    font-weight: 100;
+  }
+
+  .price-header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    p {
+      font-size: 38px;
+      color: white;
+      margin-bottom: 0;
+
+      span {
+        font-size: 16px;
+      }
+    }
+
+    button {
+      font-size: 18px;
+      font-weight: bold;
+      width: 130px;
+      height: 40px;
+      background-image: linear-gradient(to right, #faa86e 5%, #f0690a 90%);
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.3s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}
+
+.main-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 230px;
+  width: 630px;
+  margin-left: -100px;
+  gap: 30px;
+
+  @media (max-width: 480px) {
+    width: 440px;
+    margin-left: -50px;
+  }
+
+  .top-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    img {
+      height: 100%;
+
+      @media (max-width: 480px) {
+        height: 80%;
+      }
+    }
+
+    h3 {
+      font-size: 32px;
+      height: 20px;
+      color: black;
+
+      @media (max-width: 480px) {
+        font-size: 26px;
+      }
+    }
+  }
+
+  p {
+    text-align: left;
+    font-size: 19px;
+    color: var(--grey-light-color);
+    font-weight: 100;
+  }
+
+  .price-header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    p {
+      font-size: 38px;
+      color: black;
+      margin-bottom: 0;
+
+      span {
+        font-size: 16px;
+      }
+    }
+
+    button {
+      font-size: 18px;
+      font-weight: bold;
+      width: 130px;
+      height: 40px;
+      background-image: linear-gradient(to right, #faa86e 5%, #f0690a 90%);
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.3s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}
