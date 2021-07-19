@@ -22,15 +22,15 @@
 
 ## :dart: Sobre ##
 
-<p>Projeto com finalidade para um teste para Dev Front-end</p>
-<p>(X) Rotatividade automática no carrossel de banners</p>
-<p>(X) Exibir página de detalhes ao clicar no botão Saiba Mais de um card</p>
-<p>(X) (Bônus) Página Fontes: filtrar cards ao clicar em uma categoria da barra cinza</p>
-<p>(X) (Bônus) Página Apps: ordenar cards ao selecionar opção no select</p>
-<p>(X) Implemente layout responsivo para os breakpoints 480px e 1200px</p>
-<p>(X) Use Sass como pré-processador CSS</p>
-<p>(X) Use um framework JS (bônus se usar Vue)</p>
-<p>( ) (Bônus) Use o padrão BEM CSS</p>
+Projeto com finalidade para um teste para Dev Front-end </br>
+(X) Rotatividade automática no carrossel de banners </br>
+(X) Exibir página de detalhes ao clicar no botão Saiba Mais de um card </br>
+(X) (Bônus) Página Fontes: filtrar cards ao clicar em uma categoria da barra cinza </br>
+(X) (Bônus) Página Apps: ordenar cards ao selecionar opção no select </br>
+(X) Implemente layout responsivo para os breakpoints 480px e 1200px </br>
+(X) Use Sass como pré-processador CSS </br>
+(X) Use um framework JS (bônus se usar Vue) </br>
+(_) (Bônus) Use o padrão BEM CSS </br>
 
 ## :sparkles: Deploy ##
 
